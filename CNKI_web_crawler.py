@@ -355,7 +355,6 @@ class MainWorkWindows(QMainWindow):
 
 		print(self.a_radio)
 		self.pagestart=1
-		#print (self.pageend+'888888888888888888888888888888')
 
 		keywords=self.search_key_word.text()
 		if keywords == '':
